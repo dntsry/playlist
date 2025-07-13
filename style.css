@@ -7,7 +7,7 @@ body {
 
 .playlist-header {
   background: linear-gradient(135deg, #da1e1eee, #7f00f7cb);
-  height: 10vh;
+  height: 20vh;
   padding: 20px;
   display: flex;
   align-items: center;
